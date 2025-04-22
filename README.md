@@ -78,15 +78,17 @@ pip install -r requirements.txt
 Buat file `requirements.txt` dengan isi berikut:
 
 ```
-streamlit>=1.22.0
-opencv-python>=4.6.0
-numpy>=1.22.0
-Pillow>=9.1.0
-tensorflow>=2.9.0
-scikit-learn>=1.1.0
-matplotlib>=3.5.0
-pandas>=1.4.0
-seaborn>=0.11.0
+streamlit==1.44.1
+opencv-python==4.9.0.80
+numpy==1.24.3
+pillow==10.2.0
+tensorflow==2.19.0
+pandas==2.2.3
+scikit-learn==1.3.2
+matplotlib==3.10.1
+seaborn==0.13.2
+scipy==1.15.2
+joblib==1.4.2
 ```
 
 ## Menjalankan Aplikasi
